@@ -33,6 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
   var name = 'Suaib ali';
   var name2 = 'Khalid';
+  var name3 = "jarrar";
 
   void _incrementCounter() {
     setState(() {
